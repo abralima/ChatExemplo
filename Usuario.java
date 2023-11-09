@@ -1,7 +1,8 @@
 public abstract class Usuario
 {
     private SalaChatM mediator;
-     
+
+    private SalaChatM mediator2;
     private String id;
     private String name;
      
